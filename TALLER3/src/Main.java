@@ -2,6 +2,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("resultado SumaDosNumeros: probando GitHub ");
         System.out.println("resultado SumaDosNumeros: " + (sumarDosNumeros(2, 5)));
         System.out.println("resultado MayorDeTresNumeros : " + (mayorDeTresNumeros(3, 5, 7)));
         System.out.println("resultado TablaDeMultiplicar: " + Arrays.toString(tablaMultiplicar(3, 5)));
